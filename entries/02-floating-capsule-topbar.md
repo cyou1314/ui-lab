@@ -1,4 +1,5 @@
 # 02 · 悬浮胶囊顶栏
+- 效果图：[`assets/pack-ui-final.png`](../assets/pack-ui-final.png)（整窗顶部即胶囊顶栏）
 
 - 分类：布局骨架 / 组件
 - 状态：已采纳

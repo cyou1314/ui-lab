@@ -1,4 +1,5 @@
 # 06 · 完整案例：Pachat
+- 效果图：对照图 [`assets/pack-ui-final.png`](../assets/pack-ui-final.png)（Pack 路子）；Pachat 本尊效果在空间样机里切 Pachat 路子看
 
 - 分类：完整案例
 - 状态：已采纳（Pack ♾️ 的界面效果参考，2026-11-20 用户亲点）

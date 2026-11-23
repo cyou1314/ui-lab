@@ -1,4 +1,5 @@
 # 03 · 消息气泡
+- 效果图：[`assets/pack-ui-final.png`](../assets/pack-ui-final.png)、[`assets/chat-review.png`](../assets/chat-review.png)
 
 - 分类：组件
 - 状态：已落地（Pack）

@@ -40,5 +40,6 @@
   4. 任务板（组件，Pack）
   5. 批准卡（组件，Pack）
   6. Pachat 完整案例（完整案例）
-- 图片素材 v1 不重复存：条目直接引用 Pack 公开仓 `app/ui-mock/` 里已归档的图，
-  ui-lab 本仓只存文字正本，避免二进制重复。
+- 图片素材（2026-11-23 用户改定，覆盖 v1 只引用不存）：效果图实文件存本仓 `assets/`
+  （pack-ui-final.png、task-board-final.png、chat-review.png、board-motion2.gif，
+  2026-11-23 经浏览器网页上传，commit 593b292），条目以相对路径引用本仓配图。

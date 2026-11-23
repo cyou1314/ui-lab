@@ -1,4 +1,5 @@
 # 04 · 任务板（克制版）
+- 效果图：[`assets/task-board-final.png`](../assets/task-board-final.png)；动效：[`assets/board-motion2.gif`](../assets/board-motion2.gif)
 
 - 分类：组件
 - 状态：已落地（Pack）

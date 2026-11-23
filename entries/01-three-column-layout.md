@@ -1,4 +1,5 @@
 # 01 · 三栏布局骨架
+- 效果图：[`assets/pack-ui-final.png`](../assets/pack-ui-final.png)
 
 - 分类：布局骨架
 - 状态：已采纳

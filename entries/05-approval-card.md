@@ -1,4 +1,5 @@
 # 05 · 批准卡
+- 效果图：[`assets/chat-review.png`](../assets/chat-review.png)
 
 - 分类：组件
 - 状态：已落地（Pack）
